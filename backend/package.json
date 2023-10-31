@@ -1,0 +1,34 @@
+{
+  "name": "two-task-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crigney3/TasksForTwo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "crigney3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crigney3/TasksForTwo/issues"
+  },
+  "homepage": "https://github.com/crigney3/TasksForTwo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0"
+  }
+}
